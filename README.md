@@ -1,6 +1,8 @@
-# EJS Challenge by Udemy Web Development Bootcamp
+# EJS Blog Challenge
 
 ## Project setup
 ```
 npm install
 ```
+
+
